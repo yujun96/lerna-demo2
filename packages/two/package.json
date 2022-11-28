@@ -1,0 +1,25 @@
+{
+  "name": "@yj/two",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "author": "jun.yu",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/two.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/two.test.js"
+  },
+  "dependencies": {
+    "@yj/one": "^1.0.1-alpha.0",
+    "bigjs": "^0.0.3",
+    "chalk": "^5.1.2",
+    "dayjs": "^1.11.6"
+  }
+}

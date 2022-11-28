@@ -1,0 +1,23 @@
+{
+  "name": "@yj/one",
+  "version": "1.0.1-alpha.0",
+  "description": "> TODO: description",
+  "author": "yujun",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/one.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/one.test.js"
+  },
+  "dependencies": {
+    "bigjs": "^0.0.3",
+    "dayjs": "^1.11.6"
+  }
+}
