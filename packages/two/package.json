@@ -1,6 +1,6 @@
 {
   "name": "@yj/two",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "jun.yu",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/two.test.js"
   },
   "dependencies": {
-    "@yj/one": "^1.0.2",
+    "@yj/one": "^1.0.3",
     "bigjs": "^0.0.3",
     "chalk": "^5.1.2",
     "dayjs": "^1.11.6"
